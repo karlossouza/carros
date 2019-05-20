@@ -1,0 +1,469 @@
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+
+.titulo{
+    font-family: 'Cute Font', cursive;
+    color:#2E2E2E;
+    font-size: 500%;
+}
+
+
+.texto{
+    font-family: 'Cute Font', cursive;
+    color:#2E2E2E;
+    
+}
+
+.menu{
+    font-family: 'Righteous', cursive;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .capa{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+  @media screen and (max-width:1200px) {
+    .capa{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+
+
+  @media screen and (max-width: 600px) {
+    .menu{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 360px) {
+    .capa{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+
+
+  @media screen and (max-width: 1200px) {
+    .work{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 600px) {
+    .work{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+
+
+  @media screen and (max-width: 360px) {
+    .work{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+
+
+  
+
+  @media screen and (max-width: 1200px) {
+    .movie{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+  @media screen and (max-width: 600px) {
+    .movie{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 360px) {
+    .movie{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+
+
+  .nav{
+    width:100px;
+    
+  }
+  
+  .bloco02{
+   margin:0 auto;
+   padding:0;
+  }
+  
+  
+  .bloco{
+  background:#2E2E2E;
+  color:#fff;
+  border:#ddd solid 1px;
+  border-radius:12px;
+  list-style-type:none;
+  margin:10px;
+  padding:10px;
+  font-family:'Cute Font', cursive;
+  }
+
+  .bloco01{
+        position:relative;
+        width:200px;
+        float:right;
+        right: 20px;
+        top: -400px;
+  }
+ 
+
+  @media screen and (max-width: 1200px) {
+    .cont{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+
+
+
+  @media screen and (max-width: 600px) {
+    .cont{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+
+
+  @media screen and (max-width: 360px) {
+    .cont{
+       position: relative;
+       width:100%;
+       height:100%;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 1200px) {
+    .assinatura{
+       position: relative;
+       width:20%;
+       height:20%;
+       font-family: 'Cute Font', cursive;
+       font-size:20px;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 600px) {
+    .assinatura{
+       position:relative;
+       width:20%;
+       height:20%;
+       font-family: 'Cute Font', cursive; 
+       font-size:10px;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 360px) {
+    .assinatura{
+       position: relative;
+       width:20%;
+       height:20%;
+       font-family: 'Cute Font', cursive;
+       font-size:10px;
+
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 1200px) {
+    .rede{
+       position: relative;
+       width:20%;
+       height:20%;
+       font-family: 'Cute Font', cursive;
+       font-size:20px;
+       
+    }
+
+
+  } 
+
+  @media screen and (max-width: 600px) {
+    .rede{
+       position: relative;
+       width:20%;
+       height:20%;
+       font-family: 'Cute Font', cursive;
+       font-size:10px;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 360px) {
+    .rede{
+       position: relative;
+       width:20%;
+       height:20%;
+       font-family: 'Cute Font', cursive;
+       font-size:10px;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 1200px) {
+    .icone{
+       position: relative;
+       width:20%;
+       height:20%;
+       
+    }
+
+
+  } 
+
+  @media screen and (max-width: 600px) {
+    .icone{
+       position: relative;
+       width:10%;
+       height:10%;
+       
+    }
+
+
+  } 
+
+  @media screen and (max-width: 360px) {
+    .icone{
+       position: relative;
+       width:5%;
+       height:5%;
+       
+    }
+
+
+  } 
+
+
+
+  @media screen and (max-width: 1200px) {
+    .menu{
+       position: relative;
+       width:100%;
+       height:100%;
+       font-family:'Righteous', cursive; 
+       font-size:20px; 
+       
+    }
+
+
+  } 
+
+  @media screen and (max-width: 600px) {
+    .menu{
+       position: relative;
+       width:100%;
+       height:100%;
+       font-family:'Righteous', cursive;
+       font-size:10px;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 360px) {
+    .menu{
+       position: relative;
+       width:100%;
+       height:100%;
+       font-family:'Righteous', cursive;
+       font-size:10px; 
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 1200px) {
+    .texto{
+       font-family:'Cute Font', cursive;
+       font-size:20px; 
+       color:#2E2E2E;
+       
+    }
+
+
+  } 
+
+  @media screen and (max-width: 600px) {
+    .texto{
+       font-family:'Cute Font', cursive;
+       font-size:10px; 
+       color:#2E2E2E;
+       
+    }
+
+
+  } 
+
+  @media screen and (max-width: 360px) {
+    .texto{
+       font-family:'Cute Font', cursive;
+       font-size:10px; 
+       color:#2E2E2E;
+       
+    }
+
+
+  } 
+
+
+
+  @media screen and (max-width: 1200px) {
+    .titulo{
+       font-family:'Cute Font', cursive;
+       font-size:80px; 
+       color:#2E2E2E;
+       
+    }
+
+
+  } 
+
+
+
+  @media screen and (max-width: 600px) {
+    .titulo{
+       font-family:'Cute Font', cursive;
+       font-size:40px; 
+       color:#2E2E2E;
+       
+    }
+
+
+  } 
+
+
+
+
+  @media screen and (max-width: 360px) {
+    .titulo{
+       font-family:'Cute Font', cursive;
+       font-size:20px; 
+       color:#2E2E2E;
+       
+    }
+
+
+  } 
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+ 
